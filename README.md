@@ -14,6 +14,10 @@ Visit the website https://itsabhay99.github.io/Covid-19-Website/
 HOMEPAGE VIEW
 
 
+![1](https://user-images.githubusercontent.com/90472080/182806998-4b3539ee-6778-4c39-bf6b-61346f55a709.PNG)
+
+
+
 
 
 
